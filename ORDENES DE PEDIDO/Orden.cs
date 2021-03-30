@@ -145,7 +145,7 @@ namespace ORDENES_DE_PEDIDO
                     }
                     catch (Exception error)
                     {
-                        MessageBox.Show("EROR INESPERADO" + error);
+                        MessageBox.Show("ERROR INESPERADO" + error);
                     }
                 }
             }
